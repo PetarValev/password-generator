@@ -10,6 +10,7 @@ python password_generator.py -c 2
 ```
 
 -c, --count: Specify the number of passwords to generate. Default is 1.
+
 -l, --length: Specify the length of each password. Default is 16 characters.
 
 Example Output:
