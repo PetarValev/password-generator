@@ -7,6 +7,7 @@
 Command Line Usage:
 ```
 python password_generator.py -c 2
+```
 
 -c, --count: Specify the number of passwords to generate. Default is 1.
 -l, --length: Specify the length of each password. Default is 16 characters.
@@ -16,14 +17,18 @@ Example Output:
 Password 1: gX@34FsZ#1dQ
 
 Password 2: y$7PhL2#8vA%
-```
+
 ---
 
-```
+
 🔧 Installation
 Clone the repo and get started:
-
+```
 git clone https://github.com/PetarValev/password-generator.git
+```
+```
 cd password-generator
+```
+```
 python password_generator.py
 ```
