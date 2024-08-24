@@ -4,6 +4,8 @@
 
 💻 Usage With just a few clicks or commands, you can generate passwords. Whether you're securing an email account, protecting sensitive data, or just being proactive, this tool has you covered.
 
+---
+
 Command Line Usage:
 
 -c, --count: Specify the number of passwords to generate. Default is 1.
