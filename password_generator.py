@@ -13,7 +13,7 @@ def main():
     )
 
     parser.add_argument("-c", "--count", type=int, default=1, help="Specify the number of passwords to generate. Default is 1.")
-    parser.add_argument("-l", "--length", type=int, default=12, help="Specify the length of each password. Default is 16 characters.")
+    parser.add_argument("-l", "--length", type=int, default=16, help="Specify the length of each password. Default is 16 characters.")
 
     args = parser.parse_args()
 
